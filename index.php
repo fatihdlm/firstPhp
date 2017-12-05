@@ -1,3 +1,2 @@
 <?php 
-
-	echo "fati dilmaç" ;
+echo "fatih dilmaç";
